@@ -6,10 +6,10 @@ PortOps is a command-line interface (CLI) tool for managing processes and ports 
 
 ## Installation
 
-To install PortOps, you can use go get
+To install PortOps, clone this repo and cd into the repo
 
 ```bash
-go get github.com/nkondam/portops
+go build
 ```
 
 ## Usage
